@@ -9,7 +9,7 @@ and stores it to the right variable. We then go own to create get mehtods for ea
 to return the requested variable. 
 
 Next We will talk about the testfitnesstracker.java. This porgram is used to test the fitnesstracker.java file. In this program 
-we also import the Java.time.localdate which we will use to change the date. We then create 3 objects from the fitnesstracker file. 
+we also import the Java.time.localdate which we will use to change the date. We then create three objects from the fitnesstracker file. 
 While creating these objects we also give the agruements needed which is the activity name, minutes ,and date. After the objects are
 created we then utilize the get methods that were created in the fitnesstracker.java file and give the information for each exercise.
 
